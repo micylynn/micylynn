@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data Engineering student | Learn new languages | Trying out projects<br>
+Aspiring Data Engineer | Student | Learn new languages | Trying out projects | Stacking certifications <br>
 
 
 ## 🌐 Socials:
