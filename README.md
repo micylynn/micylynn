@@ -1,6 +1,9 @@
-# 💫 About Me:
-Aspiring Data Professional | Student <br>
-Working on: Advanced Python, Database Management, Data Cleaning <br>
+# 💫  Carlynn Phua | Aspiring Data Professional
+📍 Singapore | 🎓 Data Engineering Student:<br>
+
+**##👩‍💻 About Me:**
+Working on: Advanced Python, Database Management, Data Cleaning<br>
+**What drives me:** Continuous learning, solving real problems, and building reliable solutions.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlynn-phua) 
