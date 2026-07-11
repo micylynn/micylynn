@@ -11,7 +11,7 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micylynn&theme=transparent" width="68%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=transparent" width="31%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=micylynn&theme=transparent" width="31%" />
 </p>
 <!--used ( https://github.com/vn7n24fzkq/github-profile-summary-cards )-->
 
