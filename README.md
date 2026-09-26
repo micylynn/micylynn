@@ -1,19 +1,5 @@
-<div align="center">
-  <pre>
-    ,---,---,---,---,---,---,---,---,---,---,---,---,---,-------,
-  	| ~ | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | [ | ] | <-    |
-  	|---'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|
-  	| ->| | " | , | . | P | Y | F | G | C | R | L | / | = |  \  |
-  	|-----',--',--',--',--',--',--',--',--',--',--',--',--'-----|
-  	| Caps | A | O | E | U | I | D | H | T | N | S | - |  Enter |
-  	|------'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'--------|
-  	|        | ; | Q | J | K | X | B | M | W | V | Z |          |
-  	|------,-',--'--,'---'---'---'---'---'---'-,-'---',--,------|
-  	| ctrl |  | alt |         Carlynn          | alt  |  | ctrl |
-  	'------'  '-----'--------------------------'------'  '------'
-  </pre>
-</div>
-<!-- used(https://www.asciiart.eu/tools/ascii-validator) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E768C&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Carlynn!)](https://git.io/typing-svg)
+<!-- used(https://github.com/DenverCoder1/readme-typing-svg) -->
 
 ### About me:
 **Working on:** Advanced Python, Portfolio site, Data Cleaning<br>
@@ -26,7 +12,7 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micylynn&theme=transparent" width="68%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=micylynn&theme=transparent" width="31%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micylynn&theme=transparent&title_color=6e768c&text_color=6e768c&icon_color=6e768c&chart_color=6e768c" width="68%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=micylynn&theme=transparent&title_color=6e768c&text_color=6e768c&icon_color=6e768c&chart_color=6e768c" width="31%" />
 </p>
-<!--used ( https://github.com/vn7n24fzkq/github-profile-summary-cards )-->
+<!--used (https://github.com/vn7n24fzkq/github-profile-summary-cards)-->
