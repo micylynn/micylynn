@@ -4,11 +4,12 @@
 ### About me:
 **Working on:** Advanced Python, Portfolio site, Data Cleaning<br>
 **What drives me:** Continuous learning, solving real problems, and building reliable solutions.<br>
-
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlynn-phua) 
-[![📂 Portfolio](https://img.shields.io/badge/Portfolio-lightgrey)](https://sites.google.com/view/carlynnphua-portfolio)
+**Socials:** <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6e768c)](https://linkedin.com/in/carlynn-phua) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-6e768c)](https://sites.google.com/view/carlynnphua-portfolio)
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-6e768c)](https://monkeytype.com/profile/Micy)
 <!-- used(https://gprm.itsvg.in) -->
+
 
 ### 📊 GitHub Stats:
 <p align="center">
